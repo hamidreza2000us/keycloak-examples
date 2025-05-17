@@ -1,7 +1,7 @@
 <?php
     require_once 'includes/backend-call.php';
 
-    $token = $_GET[token];
+    $token = $_GET['token'];
     /*
     * gets url from keycloak.js, gets $usrpwd from backendconfig.json
     */
