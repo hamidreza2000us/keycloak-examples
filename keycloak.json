@@ -1,6 +1,6 @@
 {
   "realm": "master",
-  "auth-server-url": "https://key2-keycloak.apps.mycluster.behsacorp.com",
+  "auth-server-url": "https://sso.raido.ir",
   "ssl-required": "none",
   "resource": "sample-spa",
   "public-client": true,
